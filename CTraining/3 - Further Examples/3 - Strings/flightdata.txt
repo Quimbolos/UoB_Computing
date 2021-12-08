@@ -1,0 +1,68 @@
+Global Airlines Inc
+Passenger Data 17th December 2003
+
+No. Passenger                Airline                 Time      Destination Airport         Flight Number
+
+1  Neil Armstrong            American Airlines        8 30   Chicago International       AA101
+2  Wernher Braun             Hamburg International   11 00   Frankfurt International     HH202
+3  Sidney Camm               British Airways          8 30   London Heathrow             BA303
+4  George Cayley             Virgin Atlantic          7 00   Los Angeles                 VA404
+5  Roy Chadwick              Japan Airlines           8 30   Tokyo International         JA505
+6  Henri Coanda              United Airlines         11 00   Los Angeles                 UA606
+7  Glenn Curtiss             Hamburg International   11 00   Frankfurt International     HH202
+8  Alberto Dumont            Japan Airlines           8 30   Tokyo International         JA505
+9  Marcel Dassault           British Airways          8 30   London Heathrow             BA303
+10 Leonardo Vinci            British Airways          8 30   London Heathrow             BA303
+11 Claudius Dornier          Virgin Atlantic          7 00   Los Angeles                 VA404
+12 George Dowty              American Airlines        8 30   Chicago International       AA101
+13 Anton Flettner            United Airlines         11 00   Los Angeles                 UA606
+14 Anthony Fokker            United Airlines         11 00   Los Angeles                 UA606
+15 Robert Goddard            Virgin Atlantic          7 00   Los Angeles                 VA404
+16 Geoffrey Havilland        Virgin Atlantic          7 00   Los Angeles                 VA404
+17 Harry Hawker              Japan Airlines           8 30   Tokyo International         JA505
+18 Ernst Heinkel             American Airlines        8 30   Chicago International       AA101
+19 Igor Sikorsky             British Airways          8 30   London Heathrow             BA303
+20 Theodore Karman           Hamburg International   11 00   Frankfurt International     HH202
+21 Sergey Korolev            British Airways          8 30   London Heathrow             BA303
+22 Samuel Langley            British Airways          8 30   London Heathrow             BA303
+23 Otto Lilienthal           United Airlines         11 00   Los Angeles                 UA606
+24 Alexander Lippisch        American Airlines        8 30   Chicago International       AA101
+25 Per Lindstrand            Virgin Atlantic          7 00   Los Angeles                 VA404
+26 Paul MacCready            Japan Airlines           8 30   Tokyo International         JA505
+27 Ernst Mach                United Airlines         11 00   Los Angeles                 UA606
+28 Frederick Marriott        American Airlines        8 30   Chicago International       AA101
+29 Wilhelm Messerschmitt     United Airlines         11 00   Los Angeles                 UA606
+30 RJ Mitchell               United Airlines         11 00   Los Angeles                 UA606
+31 Montgolfier Brothers      Hamburg International   11 00   Frankfurt International     HH202
+32 Nevil Shute               Virgin Atlantic          7 00   Los Angeles                 VA404
+33 Hans Ohain                Japan Airlines           8 30   Tokyo International         JA505
+34 Richard Pearse            British Airways          8 30   London Heathrow             BA303
+35 Percy Pilcher             Virgin Atlantic          7 00   Los Angeles                 VA404
+36 Ludwig Prandtl            American Airlines        8 30   Chicago International       AA101
+37 Osborne Reynolds          Japan Airlines           8 30   Tokyo International         JA505
+38 Ben Rich                  Japan Airlines           8 30   Tokyo International         JA505
+39 Alliott Roe               United Airlines         11 00   Los Angeles                 UA606
+40 Jan Roskam                Hamburg International   11 00   Frankfurt International     HH202
+41 Burt Rutan                Hamburg International   11 00   Frankfurt International     HH202
+42 Tom Sopwith               Virgin Atlantic          7 00   Los Angeles                 VA404
+43 Pavel Sukhoi              British Airways          8 30   London Heathrow             BA303
+44 Andrei Tupolev            United Airlines         11 00   Los Angeles                 UA606
+45 Barnes Wallis             United Airlines         11 00   Los Angeles                 UA606
+46 Ken Wallis                Virgin Atlantic          7 00   Los Angeles                 VA404
+47 Richard Whitcomb          United Airlines         11 00   Los Angeles                 UA606
+48 Frank Whittle             Japan Airlines           8 30   Tokyo International         JA505
+49 Wright Brothers           American Airlines        8 30   Chicago International       AA101
+50 Ferdinand Zeppelin        Hamburg International   11 00   Frankfurt International     HH202
+
+Global Airlines Inc
+Gate Information 17th December 2003
+
+Flight No.  Gate  Boarding Time
+
+AA101       4      7 30 
+HH202       2     10 00
+BA303       6      7 30
+VA404       1      6 00
+JA505       5      7 30
+UA606       3     10 00
+
